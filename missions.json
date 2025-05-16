@@ -127,8 +127,8 @@
       { "itemId": "arc_powercell", "quantity": 1 }
     ],
     "communityHints": [
-      "Baron Husks are the large, derelict ARCs that are still making groaning noises in the Dam Battlefield and Northern Spaceport. They look like large spiders on the map.",
-      "To loot a Baron Husk: first climb on top of it, pry open the top, then immediately jump off, as it will catch fire and explode. After it cools down, it will be safe to loot."
+      "Baron Husks are the large, derelict ARCs that are still making groaning noises on the Dam and Spaceport maps.",
+      "To loot a Baron Husk: first climb on top of it, pry open the top, then immediately jump off, as it will catch fire and vent. After it cools down, it will be safe to loot."
     ]
   },
   {
