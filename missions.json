@@ -127,7 +127,7 @@
       { "itemId": "arc_powercell", "quantity": 1 }
     ],
     "communityHints": [
-      "Baron Husks are the large, derelict ARCs that are still making groaning noises in the Dam Battlefield. They look like large spiders on the map.",
+      "Baron Husks are the large, derelict ARCs that are still making groaning noises in the Dam Battlefield and Northern Spaceport. They look like large spiders on the map.",
       "To loot a Baron Husk: first climb on top of it, pry open the top, then immediately jump off, as it will catch fire and explode. After it cools down, it will be safe to loot."
     ]
   },
@@ -294,7 +294,7 @@
       "Find and turn the valve in the tunnels under Spaceport"
     ],
     "communityHints": [
-      "The tunnels form a semi-loop around the Spaceport building, with various entry points including ramps, stairs, ladders, and vertical shafts.",
+      "The tunnels form a semi-loop around the Spaceport building.",
       "The valve is located around the middle of the loop, southwest of the Spaceport building, near a pair of collapsed ramps."
     ]
   },
@@ -321,7 +321,8 @@
       "Document the pharmacist's family",
       "Document the pharmacist's taste",
       "Document the pharmacist's skills"
-    ]
+    ],
+    "communityHints": ["The Arbuso Farmacia is just North of the Piazza Arbusto, on the Eastern edge of Buried City."]
   },
   {
     "id": "m33",
