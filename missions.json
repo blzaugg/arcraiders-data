@@ -257,7 +257,8 @@
       "In one round: Visit the Departure Building in Spaceport",
       "Find the Medical Exam Room inside the Departure Building",
       "Search for the records"
-    ]
+    ],
+    "communityHints": ["The records are on the second floor, in the northern corner of the building."]
   },
   {
     "id": "m28",
@@ -266,6 +267,10 @@
       "In one round: Locate the Flood Access Tunnel under the Red Lake Berm",
       "Find the intake to the District's Water Supply",
       "Sample the water"
+    ],
+    "communityHints": [
+      "Flood Access Tunnel is just East of the Dam Control Center Tower at lake level.",
+      "At the end of the Flood Access Tunnel, there's a pipe lying in water that you can take a sample from."
     ]
   },
   {
@@ -287,6 +292,10 @@
     "objectives": [
       "In one round: Find the tunnels under the Spaceport",
       "Find and turn the valve in the tunnels under Spaceport"
+    ],
+    "communityHints": [
+      "The tunnels form a semi-loop around the Spaceport building, with various entry points including ramps, stairs, ladders, and vertical shafts.",
+      "The valve is located around the middle of the loop, southwest of the Spaceport building, near a pair of collapsed ramps."
     ]
   },
   {
